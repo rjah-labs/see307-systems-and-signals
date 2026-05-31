@@ -4,7 +4,7 @@ Study revision material for SEE307 - Systems and Signals, presented as interacti
 
 🌐 View Revision Material
 
-👉 <a href="https://rjah-labs.github.io/see307-systems-and-signals/revision/SEE307_Complete_Revision_App.html/" SEE307 Revision Hub </a>
+👉 Click here to open the SEE307 Revision Hub￼
 
 📚 Subject Overview
 
