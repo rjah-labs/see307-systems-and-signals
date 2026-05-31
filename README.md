@@ -4,7 +4,9 @@ Study revision material for SEE307 - Systems and Signals, presented as interacti
 
 🌐 View Revision Material
 
-👉 Click here to open the SEE307 Revision Hub￼
+👉 # SEE307 Revision Hub
+
+Click here to open the SEE307 Revision Hub
 
 📚 Subject Overview
 
